@@ -52,9 +52,3 @@ Email: kingbhishma9@gmail.com
 ## GitHub Stats
 
 > Actively building Laravel applications and continuously improving my development skills.
-
----
-
-## Contact
-
-kingbhishma9@gmail.com
