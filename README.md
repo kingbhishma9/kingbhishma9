@@ -1,16 +1,94 @@
-## Hi there 👋
+# Hi 👋 I'm Bhishma Dhakal
 
-<!--
-**kingbhishma9/kingbhishma9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Laravel Developer | PHP Developer
 
-Here are some ideas to get you started:
+📍 Lucknow, Uttar Pradesh, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 Email: kingbhishma9@gmail.com
+
+---
+
+## 👨‍💻 About Me
+
+- 💼 Laravel Developer with 3+ years of experience
+- 🚀 Developed production-ready Laravel applications
+- 🏢 Worked on Real Estate ERP and CRM Systems
+- 📱 Android App Developer (Java)
+- 🌱 Currently learning Flutter
+- ❤️ Passionate about clean code and problem solving
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+- Laravel
+- PHP
+- REST API
+- Blade
+
+### Frontend
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- jQuery
+- AJAX
+
+### Database
+- MySQL
+- MariaDB
+
+### Tools
+- Git
+- GitHub
+- Composer
+- Linux
+- cPanel
+- Android Studio
+
+---
+
+## 🚀 Production Projects
+
+### 🏢 SPUP Infrastructure
+
+Real Estate ERP
+
+https://spupinfrastructure.com
+
+Features
+
+- Account Management
+- Associate Management
+- Inventory Management
+- Project Management
+
+---
+
+### 📞 Ujjwal Services
+
+https://ujjwalservices.in
+
+Features
+
+- Telecaller Management
+- Calling Data Management
+- Customer Management
+- Lead Tracking
+
+---
+
+## 📈 GitHub Stats
+
+> Actively building Laravel applications and continuously improving my development skills.
+
+---
+
+## 📫 Contact
+
+📧 kingbhishma9@gmail.com
+
+💻 GitHub
+
+https://github.com/kingbhishma9
