@@ -49,36 +49,6 @@
 
 ---
 
-## 🚀 Production Projects
-
-### 🏢 SPUP Infrastructure
-
-Real Estate ERP
-
-https://spupinfrastructure.com
-
-Features
-
-- Account Management
-- Associate Management
-- Inventory Management
-- Project Management
-
----
-
-### 📞 Ujjwal Services
-
-https://ujjwalservices.in
-
-Features
-
-- Telecaller Management
-- Calling Data Management
-- Customer Management
-- Lead Tracking
-
----
-
 ## 📈 GitHub Stats
 
 > Actively building Laravel applications and continuously improving my development skills.
