@@ -1,25 +1,25 @@
-# Hi 👋 I'm Bhishma Dhakal
+# Hi I'm Bhishma Dhakal
 
 ## Laravel Developer | PHP Developer
 
-📍 Lucknow, Uttar Pradesh, India
+Lucknow, Uttar Pradesh, India
 
-📧 Email: kingbhishma9@gmail.com
-
----
-
-## 👨‍💻 About Me
-
-- 💼 Laravel Developer with 3+ years of experience
-- 🚀 Developed production-ready Laravel applications
-- 🏢 Worked on Real Estate ERP and CRM Systems
-- 📱 Android App Developer (Java)
-- 🌱 Currently learning Flutter
-- ❤️ Passionate about clean code and problem solving
+Email: kingbhishma9@gmail.com
 
 ---
 
-## 🛠 Tech Stack
+## About Me
+
+- Laravel Developer with 3+ years of experience
+- Developed production-ready Laravel applications
+- Worked on Real Estate ERP and CRM Systems
+- Android App Developer (Java)
+- Currently learning Flutter
+- Passionate about clean code and problem solving
+
+---
+
+## Tech Stack
 
 ### Backend
 - Laravel
@@ -49,16 +49,12 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 > Actively building Laravel applications and continuously improving my development skills.
 
 ---
 
-## 📫 Contact
+## Contact
 
-📧 kingbhishma9@gmail.com
-
-💻 GitHub
-
-https://github.com/kingbhishma9
+kingbhishma9@gmail.com
